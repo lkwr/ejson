@@ -2,7 +2,7 @@
 
 # EJSON
 
-#### Implementation of Extended JSON (EJSON) in Deno.
+#### Implementation of Extended JSON (EJSON) in Deno. You can use it for example in MongoDB DataAPI.
 
 ![Made for Deno](https://img.shields.io/badge/made%20for-Deno-6B82F6?style=flat-square)
 ![Licence MIT](https://img.shields.io/github/license/lkwr/ejson?color=blue&style=flat-square)
